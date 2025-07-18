@@ -13,3 +13,6 @@ A simple password generator with the following options:
 # How to use?
 1. Run the project `python src/main.py`
 2. Click "Generate a password"
+
+## In the future
+- GUI Tkinter
