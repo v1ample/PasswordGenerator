@@ -16,3 +16,4 @@ A simple password generator with the following options:
 
 ## In the future
 - GUI Tkinter
+- A list where the site and its password will be written
