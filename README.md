@@ -5,7 +5,7 @@ A simple password generator with the following options:
 - Use uppercase letters
 - Use lowercase letters
 - Use numbers
-
+## More..
 - The password is stored in password.txt
 - Password generation settings are stored in data.json
 - If data.json is missing, it will be created again
